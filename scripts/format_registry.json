@@ -1,0 +1,67 @@
+{
+  "68a234f9f9981775c2b51af25ebdb91b": {
+    "format_name": "learned_csv_68a234",
+    "structural_type": "tabular",
+    "detected_at": "2026-04-16T14:23:43Z",
+    "last_seen": "2026-04-16T14:23:43Z",
+    "times_seen": 1,
+    "file_examples": [
+      "unknown_format_test.csv"
+    ],
+    "field_mapping": {
+      "processor": "psp",
+      "issuer": "bank",
+      "region": "country",
+      "result": "status",
+      "value": "amount",
+      "resp_time": "latency_ms"
+    },
+    "extraction_hint": "csv_headers",
+    "learned_confidence": 1.0,
+    "raw_columns": [
+      "processor",
+      "issuer",
+      "region",
+      "result",
+      "value",
+      "resp_time",
+      "decline_code"
+    ],
+    "sample_values": {
+      "processor": [
+        "Stripe",
+        "PayPal",
+        "Adyen"
+      ],
+      "issuer": [
+        "Barclays",
+        "ING",
+        "UniCredit"
+      ],
+      "region": [
+        "UK",
+        "NL",
+        "IT"
+      ],
+      "result": [
+        "SUCCESS",
+        "FAILED",
+        "SUCCESS"
+      ],
+      "value": [
+        "99.99",
+        "45.00",
+        "250.00"
+      ],
+      "resp_time": [
+        "320",
+        "810",
+        "280"
+      ],
+      "decline_code": [
+        "DECLINED"
+      ]
+    },
+    "approved": true
+  }
+}

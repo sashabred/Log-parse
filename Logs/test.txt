@@ -1,0 +1,54 @@
+1. 2026/04/16 13:20:05 - Withdrawal processed - PSP: Stripe, Bank: UniCredit, Country: IT, Status: SUCCESS, Amount: 99.99, Latency: 305ms
+2. 2026/04/16 13:21:11 - Withdrawal failed - PSP: Adyen, Bank: DeutscheBank, Country: DE, Status: FAILED, Amount: 120.00, Latency: 640ms, Reason: TIMEOUT
+3. 2026/04/16 13:22:45 - Withdrawal processed - PSP: PayPal, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 45.50, Latency: 280ms
+4. 2026/04/16 13:23:10 - Withdrawal processed - PSP: Worldline, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 220.00, Latency: 410ms
+5. 2026/04/16 13:24:33 - Withdrawal failed - PSP: Checkout, Bank: Barclays, Country: UK, Status: FAILED, Amount: 75.00, Latency: 780ms, Reason: NETWORK_ERROR
+6. 2026/04/16 13:25:12 - Withdrawal processed - PSP: Nuvei, Bank: ING, Country: NL, Status: SUCCESS, Amount: 150.75, Latency: 260ms
+7. 2026/04/16 13:26:44 - Withdrawal failed - PSP: Stripe, Bank: UniCredit, Country: IT, Status: FAILED, Amount: 60.00, Latency: 900ms, Reason: INSUFFICIENT_FUNDS
+8. 2026/04/16 13:27:18 - Withdrawal processed - PSP: Adyen, Bank: DeutscheBank, Country: DE, Status: SUCCESS, Amount: 310.20, Latency: 340ms
+9. 2026/04/16 13:28:02 - Withdrawal failed - PSP: PayPal, Bank: Revolut, Country: UK, Status: FAILED, Amount: 88.00, Latency: 720ms, Reason: DECLINED
+10. 2026/04/16 13:29:55 - Withdrawal processed - PSP: Worldline, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 130.00, Latency: 390ms
+
+11. 2026/04/16 13:30:10 - Withdrawal processed - PSP: Stripe, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 210.00, Latency: 310ms
+12. 2026/04/16 13:31:44 - Withdrawal failed - PSP: Adyen, Bank: ING, Country: NL, Status: FAILED, Amount: 55.00, Latency: 810ms, Reason: TIMEOUT
+13. 2026/04/16 13:32:21 - Withdrawal processed - PSP: PayPal, Bank: Barclays, Country: UK, Status: SUCCESS, Amount: 75.25, Latency: 275ms
+14. 2026/04/16 13:33:09 - Withdrawal processed - PSP: Checkout, Bank: UniCredit, Country: IT, Status: SUCCESS, Amount: 99.00, Latency: 330ms
+15. 2026/04/16 13:34:56 - Withdrawal failed - PSP: Nuvei, Bank: DeutscheBank, Country: DE, Status: FAILED, Amount: 180.00, Latency: 690ms, Reason: NETWORK_ERROR
+16. 2026/04/16 13:35:40 - Withdrawal processed - PSP: Worldline, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 260.00, Latency: 420ms
+17. 2026/04/16 13:36:15 - Withdrawal failed - PSP: Stripe, Bank: Revolut, Country: UK, Status: FAILED, Amount: 40.00, Latency: 850ms, Reason: DECLINED
+18. 2026/04/16 13:37:33 - Withdrawal processed - PSP: Adyen, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 500.00, Latency: 360ms
+19. 2026/04/16 13:38:11 - Withdrawal failed - PSP: PayPal, Bank: ING, Country: NL, Status: FAILED, Amount: 65.00, Latency: 740ms, Reason: INSUFFICIENT_FUNDS
+20. 2026/04/16 13:39:59 - Withdrawal processed - PSP: Checkout, Bank: UniCredit, Country: IT, Status: SUCCESS, Amount: 110.00, Latency: 295ms
+
+21. 2026/04/16 13:40:22 - Withdrawal processed - PSP: Nuvei, Bank: DeutscheBank, Country: DE, Status: SUCCESS, Amount: 175.50, Latency: 265ms
+22. 2026/04/16 13:41:48 - Withdrawal failed - PSP: Worldline, Bank: Barclays, Country: UK, Status: FAILED, Amount: 95.00, Latency: 810ms, Reason: TIMEOUT
+23. 2026/04/16 13:42:30 - Withdrawal processed - PSP: Stripe, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 140.00, Latency: 320ms
+24. 2026/04/16 13:43:17 - Withdrawal failed - PSP: Adyen, Bank: ING, Country: NL, Status: FAILED, Amount: 70.00, Latency: 860ms, Reason: NETWORK_ERROR
+25. 2026/04/16 13:44:05 - Withdrawal processed - PSP: PayPal, Bank: UniCredit, Country: IT, Status: SUCCESS, Amount: 60.00, Latency: 290ms
+26. 2026/04/16 13:45:41 - Withdrawal processed - PSP: Checkout, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 200.00, Latency: 340ms
+27. 2026/04/16 13:46:19 - Withdrawal failed - PSP: Nuvei, Bank: Revolut, Country: UK, Status: FAILED, Amount: 85.00, Latency: 770ms, Reason: DECLINED
+28. 2026/04/16 13:47:02 - Withdrawal processed - PSP: Worldline, Bank: DeutscheBank, Country: DE, Status: SUCCESS, Amount: 330.00, Latency: 410ms
+29. 2026/04/16 13:48:44 - Withdrawal failed - PSP: Stripe, Bank: ING, Country: NL, Status: FAILED, Amount: 55.00, Latency: 920ms, Reason: TIMEOUT
+30. 2026/04/16 13:49:33 - Withdrawal processed - PSP: Adyen, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 125.00, Latency: 300ms
+
+31. 2026/04/16 13:50:10 - Withdrawal processed - PSP: PayPal, Bank: Barclays, Country: UK, Status: SUCCESS, Amount: 88.00, Latency: 275ms
+32. 2026/04/16 13:51:55 - Withdrawal failed - PSP: Checkout, Bank: UniCredit, Country: IT, Status: FAILED, Amount: 150.00, Latency: 880ms, Reason: NETWORK_ERROR
+33. 2026/04/16 13:52:20 - Withdrawal processed - PSP: Nuvei, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 240.00, Latency: 310ms
+34. 2026/04/16 13:53:47 - Withdrawal processed - PSP: Worldline, Bank: ING, Country: NL, Status: SUCCESS, Amount: 190.00, Latency: 260ms
+35. 2026/04/16 13:54:11 - Withdrawal failed - PSP: Stripe, Bank: DeutscheBank, Country: DE, Status: FAILED, Amount: 60.00, Latency: 830ms, Reason: DECLINED
+36. 2026/04/16 13:55:39 - Withdrawal processed - PSP: Adyen, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 300.00, Latency: 345ms
+37. 2026/04/16 13:56:28 - Withdrawal failed - PSP: PayPal, Bank: Revolut, Country: UK, Status: FAILED, Amount: 45.00, Latency: 790ms, Reason: INSUFFICIENT_FUNDS
+38. 2026/04/16 13:57:12 - Withdrawal processed - PSP: Checkout, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 210.00, Latency: 315ms
+39. 2026/04/16 13:58:44 - Withdrawal failed - PSP: Nuvei, Bank: ING, Country: NL, Status: FAILED, Amount: 95.00, Latency: 870ms, Reason: TIMEOUT
+40. 2026/04/16 13:59:59 - Withdrawal processed - PSP: Worldline, Bank: UniCredit, Country: IT, Status: SUCCESS, Amount: 170.00, Latency: 290ms
+
+41. 2026/04/16 14:00:11 - Withdrawal processed - PSP: Stripe, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 120.00, Latency: 310ms
+42. 2026/04/16 14:01:42 - Withdrawal failed - PSP: Adyen, Bank: Barclays, Country: UK, Status: FAILED, Amount: 65.00, Latency: 840ms, Reason: NETWORK_ERROR
+43. 2026/04/16 14:02:33 - Withdrawal processed - PSP: PayPal, Bank: ING, Country: NL, Status: SUCCESS, Amount: 95.00, Latency: 280ms
+44. 2026/04/16 14:03:15 - Withdrawal processed - PSP: Checkout, Bank: DeutscheBank, Country: DE, Status: SUCCESS, Amount: 260.00, Latency: 330ms
+45. 2026/04/16 14:04:58 - Withdrawal failed - PSP: Nuvei, Bank: Revolut, Country: UK, Status: FAILED, Amount: 80.00, Latency: 910ms, Reason: DECLINED
+46. 2026/04/16 14:05:20 - Withdrawal processed - PSP: Worldline, Bank: Santander, Country: ES, Status: SUCCESS, Amount: 220.00, Latency: 300ms
+47. 2026/04/16 14:06:44 - Withdrawal failed - PSP: Stripe, Bank: UniCredit, Country: IT, Status: FAILED, Amount: 50.00, Latency: 860ms, Reason: TIMEOUT
+48. 2026/04/16 14:07:31 - Withdrawal processed - PSP: Adyen, Bank: BNPParibas, Country: FR, Status: SUCCESS, Amount: 145.00, Latency: 295ms
+49. 2026/04/16 14:08:12 - Withdrawal failed - PSP: PayPal, Bank: Barclays, Country: UK, Status: FAILED, Amount: 70.00, Latency: 780ms, Reason: INSUFFICIENT_FUNDS
+50. 2026/04/16 14:09:59 - Withdrawal processed - PSP: Checkout, Bank: ING, Country: NL, Status: SUCCESS, Amount: 199.00, Latency: 340ms
