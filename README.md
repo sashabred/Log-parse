@@ -1,0 +1,1 @@
+An AI-assisted pipeline that ingests withdrawal logs from multiple formats (.csv, .txt, .json, .xlsx), automatically detects their structure, and extracts withdrawal-related events such as requests, responses, and statuses.
